@@ -2,7 +2,7 @@ package aplication;
 
 import chess.ChessMatch;
 
-public class Main {
+public class Program {
 
 	public static void main(String[] args) {
 		
